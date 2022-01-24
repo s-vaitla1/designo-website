@@ -29,6 +29,10 @@ Users should be able to:
 
 ![](./public/assets/designo-multi-page-website.gif)
 
+### Links
+
+[Preview](https://shreeya-designo-app.netlify.app)
+
 ### Built with
 
 - [React Responsive](https://www.npmjs.com/package/react-responsive)
